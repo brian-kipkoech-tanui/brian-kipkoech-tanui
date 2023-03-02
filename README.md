@@ -5,7 +5,7 @@ Welcome to my GitHub profile 🙏🏼
 ---
 ## About Me:
 <p align="left">
-  <img src="Images/Icons/brian_kipkoech_icon.jpg" width="200" height="200">
+  <img src="https://github.com/brian-kipkoech-tanui/brian-kipkoech-tanui/blob/master/Images/Icons/brian_kipkoech_icon.png" width="200" height="200">
 </p>
 
 ### Machine Learning Engineer | Data Scientist
@@ -61,7 +61,7 @@ I am dedicated to making an impact, with a focus on data science and machine lea
     <img src="./Images/Icons/seaborn_logo.svg" height="30">
     <img src="./Images/Icons/Tensorflow_logo.png" height="30">
     <img src="./Images/Icons/keras-logo-2018-large-1200.png" height="30">
-    <img src="./Images/Icons/AWS-Certified-Cloud-Practitioner" height="30">
+    <img src="./Images/Icons/AWS-Certified-Cloud-Practitioner.png" height="30">
     <img src="./Images/Icons/SageMaker-300x150.jpg" height="30">
     <img src="./Images/Icons/320px-Amazon_Web_Services_Logo.svg.png" height="30">
     <img src="./Images/Icons/Git-Logo-2Color.png" height="30">
