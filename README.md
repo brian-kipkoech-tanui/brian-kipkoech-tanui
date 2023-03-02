@@ -5,7 +5,7 @@ Welcome to my GitHub profile 🙏🏼
 ---
 ## About Me:
 <p align="left">
-  <img src="Images/brian_kipkoech_icon.jpg" width="200" height="200">
+  <img src="Images/Icons/brian_kipkoech_icon.jpg" width="200" height="200">
 </p>
 
 ### Machine Learning Engineer | Data Scientist
