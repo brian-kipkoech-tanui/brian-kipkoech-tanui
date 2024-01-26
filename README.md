@@ -5,7 +5,7 @@ Welcome to my GitHub profile 🙏🏼
 ---
 ## About Me:
 <p align="left">
-  <img src="https://github.com/brian-kipkoech-tanui/brian-kipkoech-tanui/blob/master/Images/Icons/brian_kipkoech_icon.png" width="200" height="200">
+  <img src="https://github.com/brian-kipkoech-tanui/brian-kipkoech-tanui/blob/master/Images/Icons/download.jpg" width="200" height="200">
 </p>
 
 ### Machine Learning Engineer | Data Scientist
@@ -16,8 +16,6 @@ Welcome to my GitHub profile 🙏🏼
 ### Profile Summary
 
 I am a passionate data scientist and machine learning expert who is inspired by technology's capacity to resolve complex issues. I have experience in a variety of fields, including statistics, AI, computer vision, deep learning, mathematics, and NLP, and I'm always learning new things in these fields. My strategy is focused on producing high-quality outcomes while also valuing lifelong learning and personal growth.
-
-Some changes
 <br><br>
 In addition to my expertise in machine learning and data science, I have also worked with DevOps and AWS (Amazon Web Services). I have worked on using AWS's services like SageMaker, EC2, RDS, S3, Step Functions, and Lambda to implement machine learning models and create scalable and reliable systems. I recognize the value of having a strong DevOps culture in machine learning and data science, and I work hard to incorporate best practices into my workflows to guarantee efficient and effective machine learning model development, testing, and deployment.
 <br><br>
