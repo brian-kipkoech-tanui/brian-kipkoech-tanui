@@ -84,6 +84,9 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 [![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0.24.1-red.svg)](https://scikit-learn.org/stable/)
 [![statsmodels](https://img.shields.io/badge/statsmodels-0.13.0-yellow.svg)](https://www.statsmodels.org/stable/index.html)
 [![SciPy](https://img.shields.io/badge/SciPy-1.7.0-orange.svg)](https://scipy.org/)
+[![Java](https://img.shields.io/badge/Java-21-green.svg)](https://www.oracle.com/java/technologies/downloads/)
+[![SpringBoot](https://img.shields.io/badge/Springboot-3.2.2-blue.svg)](https://spring.io/projects/spring-boot)
+[![JavaScript](https://img.shields.io/badge/JavaScript-3.2.2-black.svg)](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/)
 ---
 ### 💾 Database Management
 
