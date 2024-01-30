@@ -123,10 +123,10 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 ---
 ### 🤖 AI/ML Applications
 
-[![Classification](https://img.shields.io/badge/Classification-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Classification_in_machine_learning)
-[![Regression](https://img.shields.io/badge/Regression-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Regression_analysis)
-[![Clustering](https://img.shields.io/badge/Clustering-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Cluster_analysis)
-[![Image Classification](https://img.shields.io/badge/Image%20Classification-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Image_classification)
+[![Classification](https://img.shields.io/badge/Classification-AI/ML%20Application-brightgreen.svg)](https://github.com/brian-kipkoech-tanui/taiwandataclassification)
+[![Regression](https://img.shields.io/badge/Regression-AI/ML%20Application-brightgreen.svg)](https://github.com/brian-kipkoech-tanui/Regressionusecase)
+[![Clustering](https://img.shields.io/badge/Clustering-AI/ML%20Application-brightgreen.svg)](https://github.com/brian-kipkoech-tanui/clustering)
+[![Image Classification](https://img.shields.io/badge/Image%20Classification-AI/ML%20Application-brightgreen.svg)](https://github.com/brian-kipkoech-tanui/sagemaker-ML-workflow)
 [![Object Detection](https://img.shields.io/badge/Object%20Detection-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Object_detection)
 [![Face Detection](https://img.shields.io/badge/Face%20Detection-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Face_detection)
 [![Image Captioning](https://img.shields.io/badge/Image%20Captioning-AI/ML%20Application-brightgreen.svg)](https://en.wikipedia.org/wiki/Image_captioning) 
