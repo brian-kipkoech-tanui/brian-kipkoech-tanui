@@ -180,9 +180,9 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 [![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-Web_Scraping-red.svg)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 ---
-![Brian Kipkoech's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-kipkoech-tanui&show_icons=true&theme=midnight-purple)
+<!-- ![Brian Kipkoech's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-kipkoech-tanui&show_icons=true&theme=midnight-purple) -->
 <br>
-<!-- ![Snake animation](https://github.com/brian-kipkoech-tanui/brian-kipkoech-tanui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/brian-kipkoech-tanui/brian-kipkoech-tanui/blob/output/github-contribution-grid-snake.svg)
 <br><br>
 Thank you for taking the time to visit my GitHub profile! 🙏🏼
 
