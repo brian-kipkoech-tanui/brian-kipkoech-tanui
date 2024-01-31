@@ -92,7 +92,7 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15.1-336791.svg)](https://www.postgresql.org/docs/15/index.html)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0.24-4479A1.svg)](https://dev.mysql.com/doc/refman/8.0/en/)
-[![Oracle DataBase](https://img.shields.io/badge/Oracle%20Database-15.1-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)](https://www.postgresql.org/docs/15/index.html)
+[![Oracle DataBase](https://img.shields.io/badge/Oracle%20Database-15.1-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/ke/database/)
 ---
 ### 📷 Image Processing
 
