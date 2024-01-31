@@ -103,7 +103,7 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 ---
 ### 📊 Data Visualization
 
-[![Tableau](https://img.shields.io/badge/Tableau-2023.0-blue.svg)](https://www.tableau.com/products/desktop/download)
+[![PowerBI](https://img.shields.io/badge/PowerBI-2023.0-yellow.svg)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-4.0.0-orange.svg)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-1.2.0-red.svg)](https://seaborn.pydata.org/)
 ---
