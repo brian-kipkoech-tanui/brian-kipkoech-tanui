@@ -22,7 +22,7 @@ In addition to my expertise in machine learning and data science, I have also wo
 <br><br>
 I am dedicated to making an impact, with a focus on data science and machine learning. My portfolio, featuring my work and contributions, can be viewed on GitHub *(here, under [repositories](https://github.com/brian-kipkoech-tanui?tab=repositories))*. I am appreciative of chances to advance professionally, demonstrate my knowledge, and demonstrate my dedication to leaving a lasting impression. If you share my vision and wish to collaborate, feel free to reach out at 📫 briankipkoechtanui@gmail.com
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brian-kipkoech-tanui&theme=midnight-purple" alt="brian-kipkoech-tanui" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brian-kipkoech-tanui&theme=midnight-purple" alt="brian-kipkoech-tanui" /></a> </p> -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-kipkoech-tanui&theme=midnight-purple)
 
@@ -184,7 +184,7 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 [![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-Web_Scraping-red.svg)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 ---
-![Brian Kipkoech's GitHub stats](https://github-readme-stats-z3io.vercel.app/api?username=brian-kipkoech-tanui)
+<!-- ![Brian Kipkoech's GitHub stats](https://github-readme-stats-z3io.vercel.app/api?username=brian-kipkoech-tanui) -->
 <br>
 <!-- ![Snake animation](https://github.com/brian-kipkoech-tanui/brian-kipkoech-tanui/blob/output/github-contribution-grid-snake.svg)
 <br><br> -->
