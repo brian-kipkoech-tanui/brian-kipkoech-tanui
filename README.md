@@ -24,7 +24,7 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brian-kipkoech-tanui" alt="brian-kipkoech-tanui" /></a> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-kipkoech-tanui&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-kipkoech-tanui&theme=midnight-purple)
 
 #### Professional Links:
 
