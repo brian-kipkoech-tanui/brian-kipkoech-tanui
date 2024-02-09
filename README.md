@@ -24,8 +24,6 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brian-kipkoech-tanui&theme=midnight-purple" alt="brian-kipkoech-tanui" /></a> </p> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-kipkoech-tanui&theme=midnight-purple)
-
 #### Professional Links:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/briankipkoech/)
@@ -184,7 +182,8 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 [![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-Web_Scraping-red.svg)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 ---
-![Brian Kipkoech's GitHub stats](https://github-readme-stats-v8y1-git-master-brian-kipkoechs-projects.vercel.app/api?username=brian-kipkoech-tanui)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-kipkoech-tanui&theme=midnight-purple)
+<!-- ![Brian Kipkoech's GitHub stats](https://github-readme-stats-v8y1-git-master-brian-kipkoechs-projects.vercel.app/api?username=brian-kipkoech-tanui) -->
 <br>
 <!-- ![Snake animation](https://github.com/brian-kipkoech-tanui/brian-kipkoech-tanui/blob/output/github-contribution-grid-snake.svg)
 <br><br> -->
