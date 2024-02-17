@@ -183,7 +183,7 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-kipkoech-tanui&theme=midnight-purple)
-![Brian Kipkoech's GitHub stats](https://github-readme-stats-v8y1-git-master-brian-kipkoechs-projects.vercel.app/api?username=brian-kipkoech-tanui)
+<!-- ![Brian Kipkoech's GitHub stats](https://github-readme-stats-v8y1-git-master-brian-kipkoechs-projects.vercel.app/api?username=brian-kipkoech-tanui) -->
 <br>
 <!-- ![Snake animation](https://github.com/brian-kipkoech-tanui/brian-kipkoech-tanui/blob/output/github-contribution-grid-snake.svg)
 <br><br> -->
